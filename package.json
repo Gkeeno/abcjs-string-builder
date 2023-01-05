@@ -15,9 +15,9 @@
     "publish_abcjs-render-engine/abcString-render-engine/"
   ],
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.12.0",
-    "@vue/cli-service": "^3.12.0",
+    "@vue/cli-service": "^5.0.8",
     "abcjs": "^5.8.1",
     "font-awesome": "^4.7.0",
     "less": "^3.0.4",
